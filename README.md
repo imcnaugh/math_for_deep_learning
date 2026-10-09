@@ -10,5 +10,6 @@ pip3 install numpy --user
 pip3 install scipy --user
 pip3 install matplotlib --user
 pip3 install scikit-learn --user
+pip3 install pytest --user
 ```
 
